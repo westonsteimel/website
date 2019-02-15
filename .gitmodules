@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:westonsteimel/westonsteimel.github.io.git
 	branch = master
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = git@github.com:Track3/hermit
+	branch = master
